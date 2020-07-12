@@ -1,4 +1,4 @@
-# android-room
+# android-room-demo
  This repository contains the sample code for android room database. 
 
 # preview

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Room</string>
+    <string name="title_hint">Title</string>
+    <string name="desc_hint">Description</string>
+    <string name="post">post</string>
+    <string name="empty">Fields can not be empty..</string>
+    <string name="success">Saved successfully..</string>
+    <string name="update">Updated Successfully..</string>
+</resources>
